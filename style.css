@@ -1,0 +1,61 @@
+.child{
+  width: 378px;
+  height: 530px;
+  margin-left: 451px;
+  margin-top: 131px;
+  border-radius: 10px;
+  border: 1px solid white;
+  background-color: #F5F5F5;
+}
+.img{
+  width: 359px;
+  height: 200.52px;
+  margin: 10px;
+}
+body{
+  background-color:  #E0E0E0;
+}
+.p1{
+  font-family: "Font";
+  src: url("./Inter-Regular.ttf");
+  color: #616161;
+  padding-left: 20px;
+}
+.Email{
+  border-radius: 10px; 
+  border: 1px solid #F4B4B4;
+  width: 315px;
+  height: 45px;
+  margin-left: 20px; 
+  color:#9E9E9E;   
+  }
+.img1{
+  top: 422px;
+  left:769px;
+  position:fixed;
+}
+.password{
+  width: 315px;
+  height: 45px;
+  border-radius: 10px;
+  border: 1px solid #F4B4B4;
+  margin-left: 20px;
+  color: #9E9E9E;
+}
+.p2{
+  padding-left: 20px;
+}
+.img2{
+  top: 526px;
+  left:769px;  
+  position:fixed;
+}
+.submit{
+  margin-top: 30x;
+  width: 320px;
+  height: 45px;
+  border-radius: 10px;
+  border: 1px solid #6756CB;
+  background-color: #6756CB;
+  margin-left: 20px;
+}
